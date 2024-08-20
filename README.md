@@ -6,7 +6,6 @@
    <li><a href="#features">Features</a></li>
    <li><a href="#api-endpoints">API Endpoints</a></li>
    <li><a href="#technologies-used">Technologies Used</a></li>
-   <li><a href="#contact">Contact</a></li>
 </ul>
 <h2>Overview</h2>
 <p>ParkingFindAppServer is a Spring Boot application that serves as the backend for the ParkingFindApp. It processes requests from the mobile app, retrieves data about available parking lots, and sends this information back to the app to help users find the nearest and most suitable parking spots.</p>
